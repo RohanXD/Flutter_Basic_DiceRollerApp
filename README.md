@@ -1,4 +1,4 @@
-# nunnu
+# Dice_Roller
 
 A new Flutter project.
 
